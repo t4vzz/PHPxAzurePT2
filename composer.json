@@ -1,0 +1,15 @@
+{
+    "name": "admin/gutgut",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Gutgut\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "skip"
+        }
+    ],
+    "require": {}
+}
